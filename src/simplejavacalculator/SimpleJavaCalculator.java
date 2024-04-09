@@ -26,6 +26,6 @@ public class SimpleJavaCalculator {
       catch (Exception e) {
          System.out.println(e.getMessage());   
       }
-      
+      String test = "My Name";
    }
 }
